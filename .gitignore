@@ -1,0 +1,5 @@
+# Files and folders to be ignored by GIT
+
+# Netbeans specific files and folders
+/target/
+pom.xml
